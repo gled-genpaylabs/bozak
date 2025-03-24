@@ -10,3 +10,7 @@ fn main(){
     let investiment = Investiment::INTRADAY;
     println!("{:?}", investiment);
 }
+
+fn daily_investiment(){
+
+}
